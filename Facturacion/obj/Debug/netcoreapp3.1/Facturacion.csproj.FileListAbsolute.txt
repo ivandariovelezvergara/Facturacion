@@ -1,0 +1,5 @@
+C:\Users\Sebas\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.csprojAssemblyReference.cache
+C:\Users\Sebas\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Facturacion\Facturacion\obj\Debug\netcoreapp3.1\Facturacion.MvcApplicationPartsAssemblyInfo.cache

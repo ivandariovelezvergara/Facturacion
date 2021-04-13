@@ -1,0 +1,12 @@
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.csprojAssemblyReference.cache
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\bin\Debug\netcoreapp3.1\ADOFACTURACION.deps.json
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\bin\Debug\netcoreapp3.1\ADOFACTURACION.dll
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\bin\Debug\netcoreapp3.1\ADOFACTURACION.pdb
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.csproj.CopyComplete
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.dll
+C:\Users\Sebas\source\repos\Facturacion\ADOFACTURACION\obj\Debug\netcoreapp3.1\ADOFACTURACION.pdb

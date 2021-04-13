@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y25paXwarL3na8t0lT9Z80uZu4A0pfIUuuoClB5nbeiibQkwImhKtKHyz2XpFY8wNn19IoKXhVgHJ6nY0SJmHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Downloads\\Facturacion\\Facturacion\\Facturacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFACTURACION.csprojAssemblyReference.cache
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFACTURACION.AssemblyInfoInputs.cache
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFACTURACION.AssemblyInfo.cs
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\BFacturacion.deps.json
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\BFacturacion.dll
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\BFacturacion.pdb
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\AdoFacturacion.dll
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\AdoFacturacion.pdb
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFacturacion.csproj.CopyComplete
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFacturacion.dll
+C:\Users\Sebas\source\repos\Facturacion\BFACTURACION\obj\Debug\netcoreapp3.1\BFacturacion.pdb
